@@ -1,1 +1,1 @@
-# oswaldoctopus4.github.io/resume
+# oswaldoctopus4.github.io/
