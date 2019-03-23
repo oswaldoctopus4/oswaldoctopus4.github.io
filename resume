@@ -1,10 +1,14 @@
-<!Doctype html>
+  <!DOCTYPE html>
 <html>
-<head>
-<title>Resume for Prime</title>
-</head>
+  <head>
+    <title>Resume for Prime</title>
+  </head>
 
-<body>
-<h1> Parker Lebakken</h1>
-</body>
+  <body>
+    <h1> Parker Lebakken</h1>
+  <h3> 3512 Village Way
+  <h4> Hastings MN 55033</h4>
+  
+  
+  </body>
 </html>
