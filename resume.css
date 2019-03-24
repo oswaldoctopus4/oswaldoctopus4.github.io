@@ -1,9 +1,6 @@
       body { 
            background-color: lightblue;
-            margin-top: 50px;
-            margin-bottom: 50px;
-            margin-left: 50px;
-            margin-right: 50px;
+            border: 50 px;
       }
         h1 {
           
@@ -25,7 +22,7 @@
         margin-bottom: 0px;
         margin-left: 180px;
       }
-      p2 { 
+      p { 
             margin-left: 180px; }
       ul {
        
