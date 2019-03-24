@@ -1,7 +1,8 @@
       body { 
            background-color: lightblue;
+            width: 300px;
             padding: 20px;
-            border-style: rounded;
+            
             
       }
         h1 {
