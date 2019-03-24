@@ -1,10 +1,10 @@
-      body { back-ground-color: color;
+      body { back-ground-color: light-blue;
       }
         h1 {
-          back-ground-color: color;
+          back-ground-color: yellow;
           margin: 5px;
           margin-left: 180px;
-          margin-top: 200px;
+          margin-top: 150px;
       }
       h3 {
         margin: 5px;
