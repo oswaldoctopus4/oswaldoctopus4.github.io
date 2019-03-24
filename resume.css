@@ -1,1 +1,29 @@
-html, body {https://onmilwaukee.com/images/articles/aa/aaron-rodgers-resigning/aaron-rodgers-resigning_fullsize_story1.jpg?20180829135651}
+html, 
+<style>
+      body { back-ground-color: color;
+      }
+        h1 {
+          back-ground-color: color;
+          margin: 5px;
+          margin-left: 180px;
+          margin-top: 200px;
+      }
+      h3 {
+        margin: 5px;
+        margin-left: 180px;
+       
+      }
+      h4 {
+        margin: 5px;
+        margin-left: 180px;
+      }
+      h2 {
+        margin-top 10px;
+        margin-bottom: 0px;
+        margin-left: 200px;
+      }
+      p {
+       
+        margin-left: 200px;
+      }
+    </style>
