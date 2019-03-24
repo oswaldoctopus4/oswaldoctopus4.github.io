@@ -1,9 +1,9 @@
       body { 
            background-color: lightblue;
-            border: 50 px;
+            padding: 20px;
       }
         h1 {
-          
+          font-family: serif;
           margin: 5px;
           margin-left: 120px;
           margin-top: 150px;
